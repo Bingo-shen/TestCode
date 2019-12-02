@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc99bd82-679d-488b-aa6b-667f7d597c6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lagouAPITest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lagouAPITest/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagouAPITest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lagouAPITest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagouAPITest/.idea/pn1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lagouAPITest/.idea/pn1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagouAPITest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lagouAPITest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagouAPITest/data/data.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../lagouAPITest/data/data.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagouAPITest/page/laGou.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lagouAPITest/page/laGou.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/test_grafanaLogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+            <state relative-caret-position="288">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#69#84#0" expanded="true" />
               </folding>
@@ -35,9 +42,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils/operatExcel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="e#69#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/grafana.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
+            <state relative-caret-position="640">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#68#79#0" expanded="true" />
@@ -71,13 +90,13 @@
       <list>
         <option value="$PROJECT_DIR$/utils/operatJson.py" />
         <option value="$PROJECT_DIR$/base/isAssert.py" />
-        <option value="$PROJECT_DIR$/utils/operatExcel.py" />
         <option value="$PROJECT_DIR$/pages/grafana.py" />
         <option value="$PROJECT_DIR$/base/test.py" />
         <option value="$PROJECT_DIR$/base/method.py" />
         <option value="$PROJECT_DIR$/tests/test_grafanaLogin.py" />
         <option value="$PROJECT_DIR$/utils/excelData.py" />
         <option value="$PROJECT_DIR$/data/jsonData.json" />
+        <option value="$PROJECT_DIR$/utils/operatExcel.py" />
       </list>
     </option>
   </component>
@@ -91,6 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,7 +157,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,6 +302,9 @@
       <workItem from="1575126610890" duration="188000" />
       <workItem from="1575169340839" duration="17094000" />
       <workItem from="1575209705866" duration="3741000" />
+      <workItem from="1575272133112" duration="253000" />
+      <workItem from="1575274698098" duration="893000" />
+      <workItem from="1575291078091" duration="252000" />
     </task>
     <servers />
   </component>
@@ -319,13 +341,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29086000" />
+    <option name="totallyTimeSpent" value="30484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14020029" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14520743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -429,9 +451,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes" />
     <entry file="file://$PROJECT_DIR$/../tryApiTest/PyTest/TestTry/fs.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -439,16 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/operatExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-          <folding>
-            <element signature="e#69#80#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -483,16 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_grafanaLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-          <folding>
-            <element signature="e#69#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../tryApiTest/apiRequestTests/tryApiTest/dayDiscover/TestCases.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -512,12 +512,32 @@
         <state relative-caret-position="-543" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_grafanaLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#69#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/grafana.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
+        <state relative-caret-position="640">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#68#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/operatExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#69#80#0" expanded="true" />
           </folding>
         </state>
       </provider>

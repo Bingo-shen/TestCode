@@ -28,6 +28,7 @@ def getPositionId():
 		return json.loads(f.read())
 
 def getUrl():
+	'''获取拉勾网商品详情的请求list'''
 	listUrl=[]
 	for item in getPositionId():
 		url='https://www.lagou.com/jobs/{0}.html'.format(item)
