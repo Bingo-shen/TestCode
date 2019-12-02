@@ -1,0 +1,7 @@
+{
+  "scripts/test_network.py::TestDisplay::()": true,
+  "scripts/test_network.py::TestDisplay::()::test_mobile_network_2g": true,
+  "scripts/test_network.py::TestDisplay::()::test_mobile_network_3g": true,
+  "scripts/test_network.py::TestNetwork::()::test_click_first_network": true,
+  "scripts/test_network.py::TestNetwork::()::test_click_network": true
+}
