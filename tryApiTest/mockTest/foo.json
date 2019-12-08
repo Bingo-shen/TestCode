@@ -1,0 +1,18 @@
+[
+  {
+    "request":
+    {
+        "method": "post",
+        "uri":"/demo",
+        "json":
+        {
+            "ph": "88888"
+        }
+    },
+
+    "response":
+            {
+                "file": "res.json"
+            }
+  }
+]
