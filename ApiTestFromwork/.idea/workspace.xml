@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc99bd82-679d-488b-aa6b-667f7d597c6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lagouAPITest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lagouAPITest/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lagouAPITest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lagouAPITest/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lagouAPITest/.idea/pn1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lagouAPITest/.idea/pn1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lagouAPITest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lagouAPITest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lagouAPITest/data/data.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../lagouAPITest/data/data.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lagouAPITest/page/laGou.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lagouAPITest/page/laGou.py" afterDir="false" />
-    </list>
+    <list default="true" id="bc99bd82-679d-488b-aa6b-667f7d597c6e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/test_grafanaLogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="160">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#69#84#0" expanded="true" />
               </folding>
@@ -44,10 +35,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/utils/operatExcel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
+            <state relative-caret-position="591">
               <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
-                <element signature="e#69#80#0" expanded="true" />
+                <element signature="e#70#81#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -341,13 +332,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30484000" />
+    <option name="totallyTimeSpent" value="30720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14520743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15164521" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -514,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_grafanaLogin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="160">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#69#84#0" expanded="true" />
           </folding>
@@ -534,10 +525,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/operatExcel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
+        <state relative-caret-position="591">
           <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
-            <element signature="e#69#80#0" expanded="true" />
+            <element signature="e#70#81#0" expanded="true" />
           </folding>
         </state>
       </provider>
