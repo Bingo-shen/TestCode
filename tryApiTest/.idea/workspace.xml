@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bcee993-36aa-428a-aafc-6ab121cbede7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mockTest/foo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mockTest/mocoIntroduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mockTest/res.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ApiTestFromwork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ApiTestFromwork/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockTest/foo.json" beforeDir="false" afterPath="$PROJECT_DIR$/mockTest/foo.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mockTest/foo.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="320">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -126,12 +122,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575796172355</updated>
-      <workItem from="1575796173802" duration="3471000" />
+      <workItem from="1575796173802" duration="3796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3471000" />
+    <option name="totallyTimeSpent" value="3796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -187,8 +183,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mockTest/foo.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        <state relative-caret-position="320">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
