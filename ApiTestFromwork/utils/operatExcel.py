@@ -43,9 +43,3 @@ class OperatExecl:
         '''获取实际结果'''
         return self.getExcelRowCel(row, ActualResult())
 
-
-
-
-
-
-
