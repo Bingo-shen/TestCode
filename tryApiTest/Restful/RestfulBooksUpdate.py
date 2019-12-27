@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Author : shenqiang
+
 from flask import Flask,make_response,jsonify,abort,request
 from flask_restful import Api,Resource
 from flask_httpauth import HTTPBasicAuth

@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc99bd82-679d-488b-aa6b-667f7d597c6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/ceshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryPytestTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryPytestTest/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryPytestTest/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryPytestTest/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryPytestTest/log/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryPytestTest/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryPytestTest/tests/Ptest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryPytestTest/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryPytestTest/tests/test_searchs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryPytestTest/utils/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tryApiTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tryApiTest/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -13,6 +26,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ApiTestFromwork$operatJson.coverage" NAME="operatJson Coverage Results" MODIFIED="1575116051650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/ApiTestFromwork$111.coverage" NAME="111 Coverage Results" MODIFIED="1577000076218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/ApiTestFromwork$grafana.coverage" NAME="grafana Coverage Results" MODIFIED="1575203707067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/ApiTestFromwork$test.coverage" NAME="test Coverage Results" MODIFIED="1575204842967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
     <SUITE FILE_PATH="coverage/ApiTestFromwork$method.coverage" NAME="method Coverage Results" MODIFIED="1575202250204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
@@ -23,24 +37,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/test_grafanaLogin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/operatExcel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1376">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/operatJson.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base/method.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="832">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#69#84#0" expanded="true" />
@@ -86,11 +82,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/111.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-              <folding>
-                <element signature="e#70#100#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-271">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/ceshi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="9" column="25" selection-end-line="31" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/posix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12352">
+              <caret line="386" column="4" selection-start-line="386" selection-start-column="4" selection-end-line="386" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -155,6 +166,8 @@
         <option value="$PROJECT_DIR$/data/jsonData.json" />
         <option value="$PROJECT_DIR$/utils/operatExcel.py" />
         <option value="$PROJECT_DIR$/config/111.py" />
+        <option value="$PROJECT_DIR$/pages/111.py" />
+        <option value="$PROJECT_DIR$/pages/ceshi.py" />
       </list>
     </option>
   </component>
@@ -162,13 +175,14 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,6 +229,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,7 +238,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,7 +252,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_grafanaLogin.py">
+  <component name="RunManager" selected="Python.111">
+    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ApiTestFromwork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/ceshi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="grafana" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ApiTestFromwork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,28 +289,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/grafana.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="method" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ApiTestFromwork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,11 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.111" />
         <item itemvalue="Python tests.pytest in test_grafanaLogin.py" />
         <item itemvalue="Python tests.pytest for test_grafanaLogin.Grafana.test_003_invites" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.grafana" />
-        <item itemvalue="Python.method" />
       </list>
     </recent_temporary>
   </component>
@@ -365,6 +380,14 @@
       <workItem from="1575291078091" duration="252000" />
       <workItem from="1576397522877" duration="1694000" />
       <workItem from="1576470494190" duration="886000" />
+      <workItem from="1576935939681" duration="2879000" />
+      <workItem from="1576939670237" duration="8000" />
+      <workItem from="1576940037535" duration="1992000" />
+      <workItem from="1576994228834" duration="1940000" />
+      <workItem from="1576998070711" duration="1171000" />
+      <workItem from="1576999730817" duration="380000" />
+      <workItem from="1577002844608" duration="7000" />
+      <workItem from="1577023392505" duration="9000" />
     </task>
     <servers />
   </component>
@@ -401,18 +424,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33430000" />
+    <option name="totallyTimeSpent" value="41816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19384836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11874106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42289156" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4060241" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,6 +461,7 @@
       <path value="$PROJECT_DIR$/APITestFrameworkDesign" />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -562,6 +586,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/base/method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#69#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12352">
+          <caret line="386" column="4" selection-start-line="386" selection-start-column="4" selection-end-line="386" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/utils/excelData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1344">
@@ -583,23 +624,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/method.py">
+    <entry file="file://$PROJECT_DIR$/pages/ceshi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#69#84#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="9" column="25" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/111.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="e#70#100#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-271">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
